@@ -1,10 +1,10 @@
 <!-- _navbar.md -->
 
 * 链接到我
-  * [关于本页面](https://github.com/JoeLan96/Docs)
-  * [Github地址](https://github.com/JoeLan96/Docs)
-  * [知乎地址](https://github.com/JoeLan96/Docs)
-  * [掘金地址](https://github.com/JoeLan96/Docs)
+  * [关于本页面](https://github.com/JoeLan96/Docsify)
+  * [Github地址](https://github.com/JoeLan96/Docsify)
+  * [知乎地址](https://github.com/JoeLan96/Docsify)
+  * [掘金地址](https://github.com/JoeLan96/Docsify)
 
 
 * 友情链接
