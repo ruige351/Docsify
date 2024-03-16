@@ -1,4 +1,5 @@
 * Typora+Docsify使用指南
+  * [主题更改](/ProjectDocs/主题更改.md)
   * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md)
   * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
 * Docsify部署
